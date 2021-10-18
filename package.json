@@ -1,0 +1,34 @@
+{
+  "name": "nodejs-boilerplate",
+  "version": "1.0.0",
+  "description": "Organisation-level boilerplate for JavaScript (Node.js) projects.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --config jest.coverage.js",
+    "test:coverage:watch": "jest --watchAll --config jest.coverage.js",
+    "lint": "eslint . --ext .ts",
+    "doc": "jsdoc -t node_modules/clean-jsdoc-theme -d docs src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCodingDen/javascript-boilerplate.git"
+  },
+  "author": "The Coding Den",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheCodingDen/javascript-boilerplate/issues"
+  },
+  "homepage": "https://github.com/TheCodingDen/javascript-boilerplate#readme",
+  "devDependencies": {
+    "clean-jsdoc-theme": "^3.2.8",
+    "eslint": "^7.24.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "jest": "^27.3.0",
+    "jsdoc": "^3.6.7"
+  }
+}
