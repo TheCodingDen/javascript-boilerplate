@@ -8,7 +8,7 @@
     "test:watch": "jest --watch",
     "test:coverage": "jest --config jest.coverage.js",
     "test:coverage:watch": "jest --watchAll --config jest.coverage.js",
-    "lint": "eslint . --ext .ts",
+    "lint": "eslint .",
     "doc": "jsdoc -t node_modules/clean-jsdoc-theme -d docs src"
   },
   "repository": {
