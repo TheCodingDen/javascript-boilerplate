@@ -22,13 +22,13 @@
   },
   "homepage": "https://github.com/TheCodingDen/javascript-boilerplate#readme",
   "devDependencies": {
-    "clean-jsdoc-theme": "^3.2.8",
-    "eslint": "^8.0.1",
+    "clean-jsdoc-theme": "^3.3.3",
+    "eslint": "^8.10.0",
     "eslint-config-standard": "^16.0.3",
-    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-node": "^11.1.0",
-    "eslint-plugin-promise": "^5.1.0",
-    "jest": "^27.3.0",
-    "jsdoc": "^3.6.7"
+    "eslint-plugin-promise": "^6.0.0",
+    "jest": "^27.5.1",
+    "jsdoc": "^3.6.10"
   }
 }
