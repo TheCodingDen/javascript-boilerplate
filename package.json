@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/TheCodingDen/javascript-boilerplate#readme",
   "devDependencies": {
-    "clean-jsdoc-theme": "^3.3.3",
+    "clean-jsdoc-theme": "^4.1.10",
     "eslint": "^8.10.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.25.4",
