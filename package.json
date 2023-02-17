@@ -29,6 +29,6 @@
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
     "jest": "^27.5.1",
-    "jsdoc": "^3.6.10"
+    "jsdoc": "^4.0.1"
   }
 }
